@@ -479,7 +479,7 @@ Not applicable. Alterations to the client verification algorithm will require a 
 
 ## Example Implementation
 
-None yet.
+1. [`ibc-go`](https://github.com/cosmos/ibc-go/tree/main/modules/light-clients/07-tendermint).
 
 ## Other Implementations
 
